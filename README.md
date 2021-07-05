@@ -1,6 +1,6 @@
 ## Hello my name is Foura
 
-I'm a  developper since my 11 Year Old.
+I'm a  developper 
 
 
 
