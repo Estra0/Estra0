@@ -11,9 +11,9 @@ Bienvenue sur mon profil GitHub ! Je suis une **développeuse front-end** passio
 
 ## 🌟 Projets en vedette
 
-- **[Nom du Projet 1](lien-vers-le-projet)**: Description courte et impactante du projet. Technologies utilisées.
-- **[Nom du Projet 2](lien-vers-le-projet)**: Description courte et impactante du projet. Technologies utilisées.
-- **[Nom du Projet 3](lien-vers-le-projet)**: Description courte et impactante du projet. Technologies utilisées.
+- **[Générateur de Mot De Passe](lien-vers-le-projet)**: Site internet simple permettant de crée un mot de passe sécurisé.
+- **[Création d'un DLL attachable](lien-vers-le-projet)**: Code simple en C++ permettant de générer un fichier DLL pouvant s'attacher à un jeu (Utile pour la modifications de jeux)
+- **[Modification de fichier](lien-vers-le-projet)**: Site internet simple, permettant d'ajouter un commentaire à un fichier .txt .
 
 ## 📚 Apprentissage et Exploration
 
