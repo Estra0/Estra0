@@ -1,9 +1,36 @@
-## 👩‍💻 About Me
+# 👩‍💻 Développeuse Front-End & Reverse Engineer
 
-Passionné par le développement web, j'ai acquis une solide expérience en réalisant divers projets allant des sites statiques aux applications dynamiques. Mon expertise couvre le front-end avec HTML, CSS et JavaScript, ainsi que le back-end avec des technologies comme Node.js et Express. Désireux d'explorer de nouveaux horizons, je me tourne maintenant vers le développement de jeux vidéo, où je peux combiner ma créativité avec mes compétences techniques. Je suis actuellement en train d'apprendre Unity et C# pour concevoir des jeux captivants. Sur mon profil GitHub, vous trouverez un mélange de mes projets web et de mes premières incursions dans le développement de jeux. Je crois en l'apprentissage continu et en l'importance de partager ses connaissances avec la communauté. N'hésitez pas à parcourir mes projets, à me faire part de vos retours, ou à collaborer sur des idées passionnantes !
+Bienvenue sur mon profil GitHub ! Je suis une **développeuse front-end** passionnée avec une expertise en **C++** et une passion pour la **rétro-ingénierie**. J'aime transformer des idées en projets concrets, que ce soit à travers des interfaces utilisateur élégantes ou des solutions techniques robustes.
 
+## 🚀 Compétences
 
+- **Langages**: JavaScript, HTML, CSS, C++
+- **Frameworks & Libraries**: React, Vue.js, Bootstrap
+- **Outils**: Git, Webpack, Ghidra, IDA Pro
+- **Autres**: Développement de jeux vidéos, Analyse de logiciels
 
+## 🌟 Projets en vedette
+
+- **[Nom du Projet 1](lien-vers-le-projet)**: Description courte et impactante du projet. Technologies utilisées.
+- **[Nom du Projet 2](lien-vers-le-projet)**: Description courte et impactante du projet. Technologies utilisées.
+- **[Nom du Projet 3](lien-vers-le-projet)**: Description courte et impactante du projet. Technologies utilisées.
+
+## 📚 Apprentissage et Exploration
+
+Toujours curieuse et prête à apprendre, je m'intéresse actuellement à :
+- **Sécurité informatique** et **analyse de malwares**
+- **Développement de jeux vidéos** avec Unreal Engine
+- **Machine Learning** et **Data Science**
+
+## 📬 Me Contacter
+
+Je suis ouverte aux opportunités de collaboration et toujours intéressée par de nouveaux défis. N'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com) ou par email à [votre.email@example.com].
+
+---
+
+> "Le code, c'est comme l'humour. Quand tu dois l'expliquer, c'est qu'il n'est pas bon." – Cory House
+
+Merci de visiter mon profil ! 👋
 
 
 
