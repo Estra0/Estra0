@@ -5,7 +5,6 @@ Bienvenue sur mon profil GitHub ! Je suis une **développeuse front-end** passio
 ## 🚀 Compétences
 
 - **Langages**: JavaScript, HTML, CSS, C++
-- **Frameworks & Libraries**: React, Vue.js, Bootstrap
 - **Outils**: Git, Webpack, Ghidra, IDA Pro
 - **Autres**: Développement de jeux vidéos, Analyse de logiciels
 
