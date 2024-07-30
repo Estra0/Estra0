@@ -23,7 +23,7 @@ Toujours curieuse et prête à apprendre, je m'intéresse actuellement à :
 
 ## 📬 Me Contacter
 
-Je suis ouverte aux opportunités de collaboration et toujours intéressée par de nouveaux défis. N'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com) ou par email à [votre.email@example.com].
+Je suis ouverte aux opportunités de collaboration et toujours intéressée par de nouveaux défis. N'hésitez pas à me contacter   par email à [estra@proton.me].
 
 ---
 
