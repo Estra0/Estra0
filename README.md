@@ -12,7 +12,7 @@ Bienvenue sur mon profil GitHub ! Je suis une **développeuse front-end** passio
 
 - **[Générateur de Mot De Passe](https://github.com/Estra0/G-n-rateur-mot-de-passe)**: Site internet simple permettant de créer un mot de passe sécurisé.
 - **[Création d'un DLL attachable](https://github.com/Estra0/Dll-Attachable)**: Code simple en C++ permettant de générer un fichier DLL pouvant s'attacher à un jeu (utile pour la modification de jeux).
-- **[Jeu "Space Invader"](https://github.com/Estra0/Template-Jeu-Pygame)**: Site internet simple permettant d'ajouter un commentaire à un fichier .txt.
+- **[Jeu "Space Invader"](https://github.com/Estra0/Template-Jeu-Pygame)**: Un jeu très simple fait avec PyGame
 
 ## 📚 Apprentissage et Exploration
 
